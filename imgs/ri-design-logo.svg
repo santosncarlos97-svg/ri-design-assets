@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <g>
+    <polygon points="600,120 300,650 900,650" fill="#E8B63A"/>
+    <polygon points="600,120 300,650 600,500" fill="#2F9DA0"/>
+    <polygon points="600,120 900,650 600,500" fill="#E65B4A"/>
+    <polygon points="600,320 710,385 710,515 600,580 490,515 490,385" fill="#ECE9E3" stroke="#CFCAC2" stroke-width="8"/>
+    <circle cx="600" cy="450" r="55" fill="none" stroke="#A9A39A" stroke-width="10"/>
+    <text x="600" y="780" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+          font-size="88" font-weight="700" fill="#222222">RI+Design</text>
+    <text x="600" y="845" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+          font-size="28" letter-spacing="6" fill="#777777">YOUR SUPPORT +++</text>
+  </g>
+</svg>
